@@ -127,7 +127,7 @@ float subf(int n, int nn, int n1 ,int t,int t1, float *input, float **inter, flo
 
 
 	}
-	if(t>t1)
+	if(nn>n1)
 	{
 		for(i=0;i<nnn;i++)
 		{
